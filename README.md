@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-pecado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sabor a pecado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-pecado/) |
+| **Get License** | [Get a Licensing Quote for Sabor a pecado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-pecado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el calor, mami, tú eres mi tentación
+> Una mirada y ya perdemos la razón
+> Ese cuerpo tuyo tiene sabor a pecado
+> Ven aquí, bebé, que yo te quiero a mi lado
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
