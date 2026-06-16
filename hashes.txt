@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sabor a pecado
+
+This log tracks the cryptographic history and versioning for the song **Sabor a pecado** (sabor-a-pecado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:31:05.052386 | `v1` | `0f651130212ad02e7be8347e1ae491ab85b91990cce18bdb0f5610ba18d84668` | `0cd2e81e46c9fd5b24b8ab8e1088eb36c348a458b104de1362cc6202f37e1c6c` | `2026-06-17_sabor-a-pecado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
